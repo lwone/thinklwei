@@ -30,7 +30,8 @@
     "zoujingli/ip2region": "^1.0",
     "zoujingli/think-library": "6.0.x-dev",
     "zoujingli/wechat-developer": "^1.2",
-    "topthink/think-migration": "^3.0"
+    "topthink/think-migration": "^3.0",
+    "lwei/lwei-wechat": "v1.x-dev"
   },
   "autoload": {
     "psr-0": {

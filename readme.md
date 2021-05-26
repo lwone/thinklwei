@@ -1,4 +1,4 @@
-Lwei 框架
+ThinkLwei 框架
 ---
 为了适应工作需求的快速开发，网上找来的thinkadmin框架,然后对他进行符合我的代码风格的二次开发,后期将会增加插件化开发的功能。
 
@@ -37,7 +37,7 @@ public function index(){
 
 ## Restful API风格
 ####  具体格式参考文档
-```
+```php
 <?php
 
 namespace app\api\controller\v1;
