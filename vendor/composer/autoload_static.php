@@ -80,6 +80,7 @@ class ComposerStaticInitb2f66138aea76ab30d756f683b9213f0
         'L' => 
         array (
             'League\\MimeTypeDetection\\' => 25,
+            'League\\Fractal\\' => 15,
             'League\\Flysystem\\Cached\\' => 24,
             'League\\Flysystem\\' => 17,
         ),
@@ -232,6 +233,10 @@ class ComposerStaticInitb2f66138aea76ab30d756f683b9213f0
         'League\\MimeTypeDetection\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/mime-type-detection/src',
+        ),
+        'League\\Fractal\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/fractal/src',
         ),
         'League\\Flysystem\\Cached\\' => 
         array (
