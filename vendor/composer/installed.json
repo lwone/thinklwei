@@ -695,12 +695,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lwone/lweiWechat.git",
-                "reference": "a8127fd0123d5fcd60f3d5ef7993bf78829318a2"
+                "reference": "bac62837ebff5cd57fe27f9eaaa09c17fb623320"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lwone/lweiWechat/zipball/a8127fd0123d5fcd60f3d5ef7993bf78829318a2",
-                "reference": "a8127fd0123d5fcd60f3d5ef7993bf78829318a2",
+                "url": "https://api.github.com/repos/lwone/lweiWechat/zipball/bac62837ebff5cd57fe27f9eaaa09c17fb623320",
+                "reference": "bac62837ebff5cd57fe27f9eaaa09c17fb623320",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -714,7 +714,7 @@
                 "php": ">=7.1.0",
                 "topthink/framework": "^6.0"
             },
-            "time": "2021-05-26T06:01:19+00:00",
+            "time": "2021-05-27T03:42:01+00:00",
             "type": "library",
             "extra": {
                 "think": {
@@ -2984,12 +2984,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zoujingli/ThinkLibrary.git",
-                "reference": "0c3fd320b8056d6a73d9b0db4ca8e97cf7bbf5e1"
+                "reference": "dab37cf567def670988c452943022ff1b8bb4176"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zoujingli/ThinkLibrary/zipball/0c3fd320b8056d6a73d9b0db4ca8e97cf7bbf5e1",
-                "reference": "0c3fd320b8056d6a73d9b0db4ca8e97cf7bbf5e1",
+                "url": "https://api.github.com/repos/zoujingli/ThinkLibrary/zipball/dab37cf567def670988c452943022ff1b8bb4176",
+                "reference": "dab37cf567def670988c452943022ff1b8bb4176",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3006,7 +3006,8 @@
                 "ext-mbstring": "*",
                 "topthink/framework": "^6.0"
             },
-            "time": "2021-05-19T04:39:49+00:00",
+            "time": "2021-05-27T02:17:00+00:00",
+            "default-branch": true,
             "type": "library",
             "extra": {
                 "think": {
@@ -3036,6 +3037,13 @@
             ],
             "description": "ThinkPHP v6.0 Development Library",
             "homepage": "http://thinkadmin.top",
+            "support": {
+                "email": "zoujingli@qq.com",
+                "forum": "https://thinkadmin.top",
+                "issues": "https://gitee.com/zoujingli/ThinkLibrary/issues",
+                "source": "https://gitee.com/zoujingli/ThinkLibrary",
+                "wiki": "https://thinkadmin.top"
+            },
             "install-path": "../zoujingli/think-library"
         },
         {
