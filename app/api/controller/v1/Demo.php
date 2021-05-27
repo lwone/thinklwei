@@ -23,27 +23,27 @@ class Demo extends ApiController
      * 在服务器新建一个资源。
      */
     public function post(){
-        return json('POST API请求');
+         $this->success('POST API请求');
     }
 
     /**
      * 在服务器更新资源（客户端提供改变后的完整资源）。
      */
     public function put(){
-        return json('PUT API请求');
+         $this->success('PUT API请求');
     }
 
     /**
      * 在服务器更新资源（客户端提供改变的属性）。
      */
     public function patch(){
-        return json('PATCH API请求');
+         $this->success('PATCH API请求');
     }
 
     /**
      * 从服务器删除资源。
      */
     public function delete(){
-        return json('DELETE API请求');
+         $this->success('DELETE API请求');
     }
 }
