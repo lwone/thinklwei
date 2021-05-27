@@ -535,7 +535,7 @@ $(function () {
         if (this.attr('data-inited')) return false;
         var that = this, mode = this.attr('data-file') || 'one';
         this.attr('data-inited', true).attr('data-multiple', (mode !== 'btn' && mode !== 'one') ? 1 : 0);
-        require(['upload'], function (apply) {
+        require(['upfile'], function (apply) {
             apply.call(this, that, callback);
         });
     };
